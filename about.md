@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Abby Clark is a Biochemistry student at Cal Poly SLO. She was born and raised in Northern California before venturing south to Cal Poly.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+aclark64@calpoly.edu (mailto:aclark64@calpoly.edu)
