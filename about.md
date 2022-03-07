@@ -9,4 +9,4 @@ Abby Clark is a Biochemistry student at Cal Poly SLO. She was born and raised in
 
 ### Contact me
 
-aclark64@calpoly.edu (mailto:aclark64@calpoly.edu)
+aclark64@calpoly.edu
