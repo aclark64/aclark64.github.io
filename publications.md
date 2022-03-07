@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pubs/
+title: Interests
+permalink: /interests/
 ---
 
-1. A great publication.
-2. Another great publication.
+Abby enjoys spending her time in the lab, in the kitchen, and out in nature. She loves baking, hiking, and traveling. 
